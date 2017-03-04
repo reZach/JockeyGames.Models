@@ -10,7 +10,6 @@ namespace JockeyGames.Models.DTOs
     public class PlayerGameDTO
     {
         public int Score { get; set; }
-        public GameDTO Game { get; set; }
         public PlayerDTO Player { get; set; }
     }
 

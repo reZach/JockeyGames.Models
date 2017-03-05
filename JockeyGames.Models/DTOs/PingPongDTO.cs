@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace JockeyGames.Models.DTOs
 {
-    public class PlayerGameDTO : Player
+    public class PlayerDTO : Player
     {
                 
     }
